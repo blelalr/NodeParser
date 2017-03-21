@@ -1,0 +1,22 @@
+{
+  "name": "node-parser",
+  "version": "1.0.0",
+  "description": "call api and store data at firebase",
+  "main": "API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blelalr/NodeParser.git"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "Eros Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blelalr/NodeParser/issues"
+  },
+  "homepage": "https://github.com/blelalr/NodeParser#readme"
+}
